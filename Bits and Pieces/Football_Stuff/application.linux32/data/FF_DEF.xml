@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FantasyFootballNerd>
+<SearchParams>
+<Position>DEF</Position>
+<Limit>500</Limit>
+<PPR>0</PPR>
+<ApiKey>2012111335661532</ApiKey>
+</SearchParams>
+<PoweredBy Description="Please add a link to FantasyFootballNerd.com">
+<Logo>http://www.fantasyfootballnerd.com/images/logo.gif</Logo>
+<URL>http://www.fantasyfootballnerd.com/?src=2012111335661532</URL>
+</PoweredBy>
+<Results>
+<Player playerId="1055" Name="San Francisco 49ers" Position="DEF" Team="SF" OverallRank="118" PositionRank="1" ByeWeek="9" />
+<Player playerId="1050" Name="Green Bay Packers" Position="DEF" Team="GB" OverallRank="134" PositionRank="2" ByeWeek="10" />
+<Player playerId="1038" Name="Baltimore Ravens" Position="DEF" Team="BAL" OverallRank="135" PositionRank="3" ByeWeek="8" />
+<Player playerId="1043" Name="Philadelphia Eagles" Position="DEF" Team="PHI" OverallRank="138" PositionRank="4" ByeWeek="7" />
+<Player playerId="1063" Name="Houston Texans" Position="DEF" Team="HOU" OverallRank="147" PositionRank="5" ByeWeek="8" />
+<Player playerId="1049" Name="Chicago Bears" Position="DEF" Team="CHI" OverallRank="149" PositionRank="6" ByeWeek="6" />
+<Player playerId="1062" Name="Detroit Lions" Position="DEF" Team="DET" OverallRank="154" PositionRank="7" ByeWeek="5" />
+<Player playerId="1047" Name="Buffalo Bills" Position="DEF" Team="BUF" OverallRank="162" PositionRank="8" ByeWeek="8" />
+<Player playerId="1037" Name="Pittsburgh Steelers" Position="DEF" Team="PIT" OverallRank="163" PositionRank="9" ByeWeek="4" />
+<Player playerId="1036" Name="New York Giants" Position="DEF" Team="NYG" OverallRank="165" PositionRank="10" ByeWeek="11" />
+<Player playerId="1042" Name="New York Jets" Position="DEF" Team="NYJ" OverallRank="172" PositionRank="11" ByeWeek="9" />
+<Player playerId="1041" Name="New England Patriots" Position="DEF" Team="NE" OverallRank="189" PositionRank="12" ByeWeek="9" />
+<Player playerId="1056" Name="Seattle Seahawks" Position="DEF" Team="SEA" OverallRank="192" PositionRank="13" ByeWeek="11" />
+<Player playerId="1046" Name="Atlanta Falcons" Position="DEF" Team="ATL" OverallRank="219" PositionRank="14" ByeWeek="7" />
+<Player playerId="1039" Name="Dallas Cowboys" Position="DEF" Team="DAL" OverallRank="229" PositionRank="15" ByeWeek="5" />
+<Player playerId="1044" Name="Tennessee Titans" Position="DEF" Team="TEN" OverallRank="263" PositionRank="16" ByeWeek="11" />
+<Player playerId="1067" Name="St. Louis Rams" Position="DEF" Team="STL" OverallRank="272" PositionRank="17" ByeWeek="9" />
+<Player playerId="1059" Name="Cincinnati Bengals" Position="DEF" Team="CIN" OverallRank="273" PositionRank="18" ByeWeek="8" />
+<Player playerId="1061" Name="Denver Broncos" Position="DEF" Team="DEN" OverallRank="274" PositionRank="19" ByeWeek="7" />
+<Player playerId="1057" Name="Tampa Bay Buccaneers" Position="DEF" Team="TB" OverallRank="279" PositionRank="20" ByeWeek="5" />
+<Player playerId="1045" Name="Arizona Cardinals" Position="DEF" Team="ARI" OverallRank="286" PositionRank="21" ByeWeek="10" />
+<Player playerId="1054" Name="San Diego Chargers" Position="DEF" Team="SD" OverallRank="295" PositionRank="22" ByeWeek="7" />
+<Player playerId="1053" Name="Miami Dolphins" Position="DEF" Team="MIA" OverallRank="296" PositionRank="23" ByeWeek="7" />
+<Player playerId="1064" Name="Kansas City Chiefs" Position="DEF" Team="KC" OverallRank="299" PositionRank="24" ByeWeek="7" />
+<Player playerId="1066" Name="Oakland Raiders" Position="DEF" Team="OAK" OverallRank="317" PositionRank="25" ByeWeek="5" />
+<Player playerId="1040" Name="Minnesota Vikings" Position="DEF" Team="MIN" OverallRank="331" PositionRank="26" ByeWeek="11" />
+<Player playerId="1058" Name="Washington Redskins" Position="DEF" Team="WAS" OverallRank="333" PositionRank="27" ByeWeek="10" />
+<Player playerId="1048" Name="Carolina Panthers" Position="DEF" Team="CAR" OverallRank="341" PositionRank="28" ByeWeek="6" />
+<Player playerId="1060" Name="Cleveland Browns" Position="DEF" Team="CLE" OverallRank="346" PositionRank="29" ByeWeek="10" />
+<Player playerId="1052" Name="Jacksonville Jaguars" Position="DEF" Team="JAC" OverallRank="348" PositionRank="30" ByeWeek="6" />
+<Player playerId="1051" Name="Indianapolis Colts" Position="DEF" Team="IND" OverallRank="352" PositionRank="31" ByeWeek="4" />
+<Player playerId="1065" Name="New Orleans Saints" Position="DEF" Team="NO" OverallRank="353" PositionRank="32" ByeWeek="6" />
+</Results>
+</FantasyFootballNerd>

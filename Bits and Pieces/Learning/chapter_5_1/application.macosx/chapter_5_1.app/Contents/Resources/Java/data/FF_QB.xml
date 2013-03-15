@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FantasyFootballNerd>
+  <SearchParams>
+    <Position>QB</Position>
+    <Limit>500</Limit>
+    <PPR>0</PPR>
+    <ApiKey>2012111335661532</ApiKey>
+  </SearchParams>
+  <PoweredBy Description="Please add a link to FantasyFootballNerd.com">
+    <Logo>http://www.fantasyfootballnerd.com/images/logo.gif</Logo>
+    <URL>http://www.fantasyfootballnerd.com/?src=2012111335661532</URL>
+  </PoweredBy>
+  <Results>
+    <Player playerId="87" Name="Aaron Rodgers" Position="QB" Team="GB" OverallRank="4" PositionRank="1" ByeWeek="10" />
+    <Player playerId="13" Name="Tom Brady" Position="QB" Team="NE" OverallRank="6" PositionRank="2" ByeWeek="9" />
+    <Player playerId="14" Name="Drew Brees" Position="QB" Team="NO" OverallRank="8" PositionRank="3" ByeWeek="6" />
+    <Player playerId="1398" Name="Cam Newton" Position="QB" Team="CAR" OverallRank="11" PositionRank="4" ByeWeek="6" />
+    <Player playerId="793" Name="Matthew Stafford" Position="QB" Team="DET" OverallRank="16" PositionRank="5" ByeWeek="5" />
+    <Player playerId="105" Name="Michael Vick" Position="QB" Team="PHI" OverallRank="44" PositionRank="6" ByeWeek="7" />
+    <Player playerId="65" Name="Eli Manning" Position="QB" Team="NYG" OverallRank="46" PositionRank="7" ByeWeek="11" />
+    <Player playerId="93" Name="Matt Ryan" Position="QB" Team="ATL" OverallRank="47" PositionRank="8" ByeWeek="7" />
+    <Player playerId="89" Name="Tony Romo" Position="QB" Team="DAL" OverallRank="53" PositionRank="9" ByeWeek="5" />
+    <Player playerId="86" Name="Philip Rivers" Position="QB" Team="SD" OverallRank="63" PositionRank="10" ByeWeek="7" />
+    <Player playerId="66" Name="Peyton Manning" Position="QB" Team="DEN" OverallRank="67" PositionRank="11" ByeWeek="7" />
+    <Player playerId="88" Name="Ben Roethlisberger" Position="QB" Team="PIT" OverallRank="80" PositionRank="12" ByeWeek="4" />
+    <Player playerId="28" Name="Jay Cutler" Position="QB" Team="CHI" OverallRank="84" PositionRank="13" ByeWeek="6" />
+    <Player playerId="1806" Name="Robert Griffin III" Position="QB" Team="WAS" OverallRank="89" PositionRank="14" ByeWeek="10" />
+    <Player playerId="94" Name="Matt Schaub" Position="QB" Team="HOU" OverallRank="92" PositionRank="15" ByeWeek="8" />
+    <Player playerId="1932" Name="Andrew Luck" Position="QB" Team="IND" OverallRank="111" PositionRank="16" ByeWeek="4" />
+    <Player playerId="788" Name="Josh Freeman" Position="QB" Team="TB" OverallRank="115" PositionRank="17" ByeWeek="5" />
+    <Player playerId="1391" Name="Andy Dalton" Position="QB" Team="CIN" OverallRank="123" PositionRank="18" ByeWeek="8" />
+    <Player playerId="35" Name="Joe Flacco" Position="QB" Team="BAL" OverallRank="129" PositionRank="19" ByeWeek="8" />
+    <Player playerId="97" Name="Alex Smith" Position="QB" Team="SF" OverallRank="133" PositionRank="20" ByeWeek="9" />
+    <Player playerId="79" Name="Carson Palmer" Position="QB" Team="OAK" OverallRank="141" PositionRank="21" ByeWeek="5" />
+    <Player playerId="1395" Name="Jake Locker" Position="QB" Team="TEN" OverallRank="144" PositionRank="22" ByeWeek="11" />
+    <Player playerId="34" Name="Ryan Fitzpatrick" Position="QB" Team="BUF" OverallRank="145" PositionRank="23" ByeWeek="8" />
+    <Player playerId="1109" Name="Sam Bradford" Position="QB" Team="STL" OverallRank="153" PositionRank="24" ByeWeek="9" />
+    <Player playerId="22" Name="Matt Cassel" Position="QB" Team="KC" OverallRank="168" PositionRank="25" ByeWeek="7" />
+    <Player playerId="1847" Name="Russell Wilson" Position="QB" Team="SEA" OverallRank="170" PositionRank="26" ByeWeek="11" />
+    <Player playerId="1399" Name="Christian Ponder" Position="QB" Team="MIN" OverallRank="185" PositionRank="27" ByeWeek="11" />
+    <Player playerId="792" Name="Mark Sanchez" Position="QB" Team="NYJ" OverallRank="205" PositionRank="28" ByeWeek="9" />
+    <Player playerId="1121" Name="Tim Tebow" Position="QB" Team="NYJ" OverallRank="225" PositionRank="29" ByeWeek="9" />
+    <Player playerId="36" Name="Matt Flynn" Position="QB" Team="SEA" OverallRank="240" PositionRank="30" ByeWeek="11" />
+    <Player playerId="1877" Name="Brandon Weeden" Position="QB" Team="CLE" OverallRank="242" PositionRank="31" ByeWeek="10" />
+    <Player playerId="1119" Name="John Skelton" Position="QB" Team="ARI" OverallRank="261" PositionRank="32" ByeWeek="10" />
+    <Player playerId="1758" Name="Ryan Tannehill" Position="QB" Team="MIA" OverallRank="269" PositionRank="33" ByeWeek="7" />
+    <Player playerId="1393" Name="Blaine Gabbert" Position="QB" Team="JAC" OverallRank="280" PositionRank="34" ByeWeek="6" />
+    <Player playerId="51" Name="Matt Hasselbeck" Position="QB" Team="TEN" OverallRank="305" PositionRank="35" ByeWeek="11" />
+    <Player playerId="60" Name="Kevin Kolb" Position="QB" Team="ARI" OverallRank="306" PositionRank="36" ByeWeek="10" />
+    <Player playerId="72" Name="Matt Moore" Position="QB" Team="MIA" OverallRank="329" PositionRank="37" ByeWeek="7" />
+    <Player playerId="1116" Name="Colt McCoy" Position="QB" Team="CLE" OverallRank="359" PositionRank="38" ByeWeek="10" />
+    <Player playerId="52" Name="Chad Henne" Position="QB" Team="JAC" OverallRank="387" PositionRank="39" ByeWeek="6" />
+    <Player playerId="1801" Name="Nick Foles" Position="QB" Team="PHI" OverallRank="393" PositionRank="40" ByeWeek="7" />
+    <Player playerId="538" Name="Brad Smith" Position="QB" Team="BUF" OverallRank="401" PositionRank="41" ByeWeek="8" />
+    <Player playerId="1174" Name="Joe Webb" Position="QB" Team="MIN" OverallRank="408" PositionRank="42" ByeWeek="11" />
+    <Player playerId="54" Name="Shaun Hill" Position="QB" Team="DET" OverallRank="432" PositionRank="43" ByeWeek="5" />
+    <Player playerId="76" Name="Kyle Orton" Position="QB" Team="DAL" OverallRank="435" PositionRank="44" ByeWeek="5" />
+    <Player playerId="40" Name="David Garrard" Position="QB" Team="MIA" OverallRank="437" PositionRank="45" ByeWeek="7" />
+    <Player playerId="56" Name="Tarvaris Jackson" Position="QB" Team="BUF" OverallRank="438" PositionRank="46" ByeWeek="8" />
+    <Player playerId="1814" Name="Brock Osweiler" Position="QB" Team="DEN" OverallRank="455" PositionRank="47" ByeWeek="7" />
+    <Player playerId="1402" Name="T.J. Yates" Position="QB" Team="HOU" OverallRank="457" PositionRank="48" ByeWeek="8" />
+    <Player playerId="45" Name="Rex Grossman" Position="QB" Team="WAS" OverallRank="461" PositionRank="49" ByeWeek="10" />
+    <Player playerId="1805" Name="Kirk Cousins" Position="QB" Team="WAS" OverallRank="471" PositionRank="50" ByeWeek="10" />
+    <Player playerId="20" Name="Jason Campbell" Position="QB" Team="CHI" OverallRank="498" PositionRank="51" ByeWeek="6" />
+    <Player playerId="1834" Name="Ryan Lindley" Position="QB" Team="ARI" OverallRank="503" PositionRank="52" ByeWeek="10" />
+    <Player playerId="1394" Name="Colin Kaepernick" Position="QB" Team="SF" OverallRank="517" PositionRank="53" ByeWeek="9" />
+    <Player playerId="61" Name="Byron Leftwich" Position="QB" Team="PIT" OverallRank="523" PositionRank="54" ByeWeek="4" />
+    <Player playerId="1396" Name="Ryan Mallett" Position="QB" Team="NE" OverallRank="525" PositionRank="55" ByeWeek="9" />
+    <Player playerId="75" Name="Dan Orlovsky" Position="QB" Team="TB" OverallRank="527" PositionRank="56" ByeWeek="5" />
+    <Player playerId="2" Name="Derek Anderson" Position="QB" Team="CAR" OverallRank="531" PositionRank="57" ByeWeek="6" />
+    <Player playerId="110" Name="Charlie Whitehurst" Position="QB" Team="SD" OverallRank="542" PositionRank="58" ByeWeek="7" />
+    <Player playerId="49" Name="Caleb Hanie" Position="QB" Team="DEN" OverallRank="547" PositionRank="59" ByeWeek="7" />
+    <Player playerId="62" Name="Matt Leinart" Position="QB" Team="OAK" OverallRank="550" PositionRank="60" ByeWeek="5" />
+    <Player playerId="102" Name="Drew Stanton" Position="QB" Team="IND" OverallRank="553" PositionRank="61" ByeWeek="4" />
+    <Player playerId="786" Name="Chase Daniel" Position="QB" Team="NO" OverallRank="556" PositionRank="62" ByeWeek="6" />
+    <Player playerId="1112" Name="Jimmy Clausen" Position="QB" Team="CAR" OverallRank="557" PositionRank="63" ByeWeek="6" />
+    <Player playerId="7" Name="John Beck" Position="QB" Team="HOU" OverallRank="559" PositionRank="64" ByeWeek="8" />
+    <Player playerId="41" Name="Bruce Gradkowski" Position="QB" Team="CIN" OverallRank="560" PositionRank="65" ByeWeek="8" />
+    <Player playerId="791" Name="Curtis Painter" Position="QB" Team="BAL" OverallRank="562" PositionRank="66" ByeWeek="8" />
+    <Player playerId="58" Name="Josh Johnson" Position="QB" Team="SF" OverallRank="574" PositionRank="67" ByeWeek="9" />
+    <Player playerId="107" Name="Seneca Wallace" Position="QB" Team="CLE" OverallRank="575" PositionRank="68" ByeWeek="10" />
+    <Player playerId="32" Name="Trent Edwards" Position="QB" Team="PHI" OverallRank="584" PositionRank="69" ByeWeek="7" />
+    <Player playerId="23" Name="Kellen Clemens" Position="QB" Team="STL" OverallRank="586" PositionRank="70" ByeWeek="9" />
+    <Player playerId="106" Name="Billy Volek" Position="QB" Team="SD" OverallRank="587" PositionRank="71" ByeWeek="7" />
+    <Player playerId="99" Name="Troy Smith" Position="QB" Team="PIT" OverallRank="589" PositionRank="72" ByeWeek="4" />
+    <Player playerId="90" Name="Sage Rosenfels" Position="QB" Team="MIN" OverallRank="597" PositionRank="73" ByeWeek="11" />
+    <Player playerId="18" Name="Mark Brunell" Position="QB" Team="NYJ" OverallRank="604" PositionRank="74" ByeWeek="9" />
+    <Player playerId="789" Name="Stephen McGee" Position="QB" Team="DAL" OverallRank="605" PositionRank="75" ByeWeek="5" />
+    <Player playerId="1696" Name="Terrelle Pryor" Position="QB" Team="OAK" OverallRank="616" PositionRank="76" ByeWeek="5" />
+    <Player playerId="85" Name="Chris Redman" Position="QB" Team="ATL" OverallRank="617" PositionRank="77" ByeWeek="7" />
+    <Player playerId="103" Name="Tyler Thigpen" Position="QB" Team="BUF" OverallRank="621" PositionRank="78" ByeWeek="8" />
+    <Player playerId="1401" Name="Tyrod Taylor" Position="QB" Team="BAL" OverallRank="622" PositionRank="79" ByeWeek="8" />
+    <Player playerId="6" Name="Charlie Batch" Position="QB" Team="PIT" OverallRank="624" PositionRank="80" ByeWeek="4" />
+    <Player playerId="70" Name="Luke McCown" Position="QB" Team="NO" OverallRank="625" PositionRank="81" ByeWeek="6" />
+    <Player playerId="82" Name="Brady Quinn" Position="QB" Team="KC" OverallRank="626" PositionRank="82" ByeWeek="7" />
+    <Player playerId="1898" Name="Kellen Moore" Position="QB" Team="DET" OverallRank="628" PositionRank="83" ByeWeek="5" />
+    <Player playerId="1331" Name="Graham Harrell" Position="QB" Team="GB" OverallRank="633" PositionRank="84" ByeWeek="10" />
+    <Player playerId="901" Name="Brian Hoyer" Position="QB" Team="NE" OverallRank="636" PositionRank="85" ByeWeek="9" />
+    <Player playerId="1908" Name="B.J. Coleman" Position="QB" Team="GB" OverallRank="643" PositionRank="86" ByeWeek="10" />
+    <Player playerId="21" Name="David Carr" Position="QB" Team="NYG" OverallRank="645" PositionRank="87" ByeWeek="11" />
+    <Player playerId="1114" Name="Mike Kafka" Position="QB" Team="PHI" OverallRank="646" PositionRank="88" ByeWeek="7" />
+    <Player playerId="71" Name="Donovan McNabb" Position="QB" Team="MIN" OverallRank="647" PositionRank="89" ByeWeek="11" />
+    <Player playerId="69" Name="Josh McCown" Position="QB" Team="CHI" OverallRank="649" PositionRank="90" ByeWeek="6" />
+    <Player playerId="33" Name="A.J. Feeley" Position="QB" Team="STL" OverallRank="650" PositionRank="91" ByeWeek="9" />
+    <Player playerId="80" Name="Jordan Palmer" Position="QB" Team="JAC" OverallRank="652" PositionRank="92" ByeWeek="6" />
+    <Player playerId="30" Name="Dennis Dixon" Position="QB" Team="PIT" OverallRank="653" PositionRank="93" ByeWeek="4" />
+    <Player playerId="1120" Name="Rusty Smith" Position="QB" Team="TEN" OverallRank="659" PositionRank="94" ByeWeek="11" />
+    <Player playerId="59" Name="Jon Kitna" Position="QB" Team="DAL" OverallRank="666" PositionRank="95" ByeWeek="5" />
+    <Player playerId="39" Name="Jeff Garcia" Position="QB" Team="HOU" OverallRank="676" PositionRank="96" ByeWeek="8" />
+    <Player playerId="1111" Name="Sean Canfield" Position="QB" Team="NO" OverallRank="677" PositionRank="97" ByeWeek="6" />
+    <Player playerId="1400" Name="Ricky Stanzi" Position="QB" Team="KC" OverallRank="689" PositionRank="98" ByeWeek="7" />
+    <Player playerId="1931" Name="Chandler Harnish" Position="QB" Team="IND" OverallRank="701" PositionRank="99" ByeWeek="4" />
+    <Player playerId="9" Name="Kyle Boller" Position="QB" Team="OAK" OverallRank="704" PositionRank="100" ByeWeek="5" />
+    <Player playerId="1909" Name="Nick Hill" Position="QB" Team="GB" OverallRank="720" PositionRank="101" ByeWeek="10" />
+    <Player playerId="1488" Name="Josh Portis" Position="QB" Team="SEA" OverallRank="733" PositionRank="102" ByeWeek="11" />
+    <Player playerId="1115" Name="Dan LeFevour" Position="QB" Team="JAC" OverallRank="737" PositionRank="103" ByeWeek="6" />
+    <Player playerId="4" Name="Richard Bartel" Position="QB" Team="ARI" OverallRank="739" PositionRank="104" ByeWeek="10" />
+    <Player playerId="1118" Name="Zac Robinson" Position="QB" Team="CIN" OverallRank="744" PositionRank="105" ByeWeek="8" />
+    <Player playerId="1113" Name="Jonathan Crompton" Position="QB" Team="WAS" OverallRank="746" PositionRank="106" ByeWeek="10" />
+    <Player playerId="1379" Name="Ryan Perrilloux" Position="QB" Team="NYG" OverallRank="753" PositionRank="107" ByeWeek="11" />
+    <Player playerId="1392" Name="Nathan Enderle" Position="QB" Team="JAC" OverallRank="754" PositionRank="108" ByeWeek="6" />
+    <Player playerId="1494" Name="Adam Weber" Position="QB" Team="DEN" OverallRank="764" PositionRank="109" ByeWeek="7" />
+    <Player playerId="1397" Name="Greg McElroy" Position="QB" Team="NYJ" OverallRank="784" PositionRank="110" ByeWeek="9" />
+    <Player playerId="1490" Name="Scott Tolzien" Position="QB" Team="SF" OverallRank="792" PositionRank="111" ByeWeek="9" />
+    <Player playerId="1475" Name="McLeod Bethel-Thompson" Position="QB" Team="MIN" OverallRank="802" PositionRank="112" ByeWeek="11" />
+    <Player playerId="84" Name="Brett Ratliff" Position="QB" Team="TB" OverallRank="805" PositionRank="113" ByeWeek="5" />
+    <Player playerId="1484" Name="Jerrod Johnson" Position="QB" Team="PIT" OverallRank="809" PositionRank="114" ByeWeek="4" />
+    <Player playerId="1483" Name="Mike Hartline" Position="QB" Team="NE" OverallRank="812" PositionRank="115" ByeWeek="9" />
+    <Player playerId="1214" Name="Thaddeus Lewis" Position="QB" Team="CLE" OverallRank="814" PositionRank="116" ByeWeek="10" />
+    <Player playerId="785" Name="Tom Brandstater" Position="QB" Team="STL" OverallRank="816" PositionRank="117" ByeWeek="9" />
+    <Player playerId="1492" Name="Trevor Vittatoe" Position="QB" Team="IND" OverallRank="820" PositionRank="118" ByeWeek="4" />
+    <Player playerId="78" Name="Tyler Palko" Position="QB" Team="KC" OverallRank="826" PositionRank="119" ByeWeek="7" />
+    <Player playerId="1479" Name="Pat Devlin" Position="QB" Team="MIA" OverallRank="837" PositionRank="120" ByeWeek="7" />
+    <Player playerId="895" Name="Rudy Carpenter" Position="QB" Team="DAL" OverallRank="840" PositionRank="121" ByeWeek="5" />
+    <Player playerId="784" Name="Rhett Bomar" Position="QB" Team="OAK" OverallRank="842" PositionRank="122" ByeWeek="5" />
+    <Player playerId="908" Name="John Parker Wilson" Position="QB" Team="ATL" OverallRank="848" PositionRank="123" ByeWeek="7" />
+    <Player playerId="73" Name="Kevin O'Connell" Position="QB" Team="SD" OverallRank="859" PositionRank="124" ByeWeek="7" />
+    <Player playerId="1995" Name="Jacory Harris" Position="QB" Team="PHI" OverallRank="1074" PositionRank="125" ByeWeek="7" />
+    <Player playerId="2084" Name="Alex Tanney" Position="QB" Team="KC" OverallRank="1155" PositionRank="126" ByeWeek="7" />
+    <Player playerId="2014" Name="Jarrett Lee" Position="QB" Team="SD" OverallRank="1091" PositionRank="127" ByeWeek="7" />
+    <Player playerId="2030" Name="John Brantley" Position="QB" Team="BAL" OverallRank="1107" PositionRank="128" ByeWeek="8" />
+    <Player playerId="2031" Name="Chester Stewart" Position="QB" Team="BAL" OverallRank="1108" PositionRank="129" ByeWeek="8" />
+    <Player playerId="2043" Name="Matt Blanchard" Position="QB" Team="CHI" OverallRank="1118" PositionRank="130" ByeWeek="6" />
+    <Player playerId="2061" Name="David Legree" Position="QB" Team="IND" OverallRank="1136" PositionRank="131" ByeWeek="4" />
+    <Player playerId="2077" Name="Kyle Newhall-Caballero" Position="QB" Team="OAK" OverallRank="1150" PositionRank="132" ByeWeek="5" />
+    <Player playerId="1964" Name="Dominique Davis" Position="QB" Team="ATL" OverallRank="1052" PositionRank="133" ByeWeek="7" />
+    <Player playerId="1953" Name="Nick Stephens" Position="QB" Team="TEN" OverallRank="1044" PositionRank="134" ByeWeek="11" />
+    <Player playerId="1926" Name="Case Keenum" Position="QB" Team="HOU" OverallRank="1033" PositionRank="135" ByeWeek="8" />
+    <Player playerId="1754" Name="Aaron Corp" Position="QB" Team="BUF" OverallRank="941" PositionRank="136" ByeWeek="8" />
+    <Player playerId="1868" Name="Tyler Hansen" Position="QB" Team="CIN" OverallRank="999" PositionRank="137" ByeWeek="8" />
+    <Player playerId="1853" Name="Austin Davis" Position="QB" Team="STL" OverallRank="991" PositionRank="138" ByeWeek="9" />
+    <Player playerId="24" Name="Kerry Collins" Position="QB" Team="IND" OverallRank="885" PositionRank="139" ByeWeek="4" />
+    <Player playerId="1776" Name="Matt Simms" Position="QB" Team="NYJ" OverallRank="951" PositionRank="140" ByeWeek="9" />
+    <Player playerId="1775" Name="G.J. Kinne" Position="QB" Team="NYJ" OverallRank="950" PositionRank="141" ByeWeek="9" />
+    <Player playerId="1208" Name="R.J. Archer" Position="QB" Team="DET" OverallRank="901" PositionRank="142" ByeWeek="5" />
+  </Results>
+</FantasyFootballNerd>

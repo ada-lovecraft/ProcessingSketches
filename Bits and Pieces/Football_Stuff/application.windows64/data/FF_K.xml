@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FantasyFootballNerd>
+<SearchParams>
+<Position>K</Position>
+<Limit>500</Limit>
+<PPR>0</PPR>
+<ApiKey>2012111335661532</ApiKey>
+</SearchParams>
+<PoweredBy Description="Please add a link to FantasyFootballNerd.com">
+<Logo>http://www.fantasyfootballnerd.com/images/logo.gif</Logo>
+<URL>http://www.fantasyfootballnerd.com/?src=2012111335661532</URL>
+</PoweredBy>
+<Results>
+<Player playerId="738" Name="David Akers" Position="K" Team="SF" OverallRank="169" PositionRank="1" ByeWeek="9" />
+<Player playerId="747" Name="Mason Crosby" Position="K" Team="GB" OverallRank="178" PositionRank="2" ByeWeek="10" />
+<Player playerId="759" Name="Sebastian Janikowski" Position="K" Team="OAK" OverallRank="186" PositionRank="3" ByeWeek="5" />
+<Player playerId="752" Name="Stephen Gostkowski" Position="K" Team="NE" OverallRank="188" PositionRank="4" ByeWeek="9" />
+<Player playerId="1685" Name="Dan Bailey" Position="K" Team="DAL" OverallRank="196" PositionRank="5" ByeWeek="5" />
+<Player playerId="757" Name="Garrett Hartley" Position="K" Team="NO" OverallRank="203" PositionRank="6" ByeWeek="6" />
+<Player playerId="769" Name="Matt Prater" Position="K" Team="DEN" OverallRank="209" PositionRank="7" ByeWeek="7" />
+<Player playerId="740" Name="Rob Bironas" Position="K" Team="TEN" OverallRank="213" PositionRank="8" ByeWeek="11" />
+<Player playerId="743" Name="Matt Bryant" Position="K" Team="ATL" OverallRank="215" PositionRank="9" ByeWeek="7" />
+<Player playerId="1473" Name="Alex Henery" Position="K" Team="PHI" OverallRank="216" PositionRank="10" ByeWeek="7" />
+<Player playerId="753" Name="Robbie Gould" Position="K" Team="CHI" OverallRank="218" PositionRank="11" ByeWeek="6" />
+<Player playerId="1930" Name="Randy Bullock" Position="K" Team="HOU" OverallRank="226" PositionRank="12" ByeWeek="8" />
+<Player playerId="756" Name="Jason Hanson" Position="K" Team="DET" OverallRank="233" PositionRank="13" ByeWeek="5" />
+<Player playerId="776" Name="Lawrence Tynes" Position="K" Team="NYG" OverallRank="235" PositionRank="14" ByeWeek="11" />
+<Player playerId="775" Name="Shaun Suisham" Position="K" Team="PIT" OverallRank="238" PositionRank="15" ByeWeek="4" />
+<Player playerId="760" Name="Nate Kaeding" Position="K" Team="SD" OverallRank="253" PositionRank="16" ByeWeek="7" />
+<Player playerId="1711" Name="Neil Rackers" Position="K" Team="WAS" OverallRank="254" PositionRank="17" ByeWeek="10" />
+<Player playerId="777" Name="Adam Vinatieri" Position="K" Team="IND" OverallRank="256" PositionRank="18" ByeWeek="4" />
+<Player playerId="758" Name="Steven Hauschka" Position="K" Team="SEA" OverallRank="258" PositionRank="19" ByeWeek="11" />
+<Player playerId="768" Name="Mike Nugent" Position="K" Team="CIN" OverallRank="262" PositionRank="20" ByeWeek="8" />
+<Player playerId="773" Name="Josh Scobee" Position="K" Team="JAC" OverallRank="264" PositionRank="21" ByeWeek="6" />
+<Player playerId="739" Name="Connor Barth" Position="K" Team="TB" OverallRank="276" PositionRank="22" ByeWeek="5" />
+<Player playerId="762" Name="Rian Lindell" Position="K" Team="BUF" OverallRank="277" PositionRank="23" ByeWeek="8" />
+<Player playerId="748" Name="Phil Dawson" Position="K" Team="CLE" OverallRank="282" PositionRank="24" ByeWeek="10" />
+<Player playerId="754" Name="Shayne Graham" Position="K" Team="HOU" OverallRank="284" PositionRank="25" ByeWeek="8" />
+<Player playerId="745" Name="Dan Carpenter" Position="K" Team="MIA" OverallRank="287" PositionRank="26" ByeWeek="7" />
+<Player playerId="1865" Name="Greg Zuerlein" Position="K" Team="STL" OverallRank="288" PositionRank="27" ByeWeek="9" />
+<Player playerId="751" Name="Nick Folk" Position="K" Team="NYJ" OverallRank="292" PositionRank="28" ByeWeek="9" />
+<Player playerId="750" Name="Jay Feely" Position="K" Team="ARI" OverallRank="294" PositionRank="29" ByeWeek="10" />
+<Player playerId="1101" Name="Billy Cundiff" Position="K" Team="WAS" OverallRank="301" PositionRank="30" ByeWeek="10" />
+<Player playerId="1710" Name="John Kasay" Position="K" Team="NO" OverallRank="307" PositionRank="31" ByeWeek="6" />
+<Player playerId="893" Name="Ryan Succop" Position="K" Team="KC" OverallRank="308" PositionRank="32" ByeWeek="7" />
+<Player playerId="1925" Name="Blair Walsh" Position="K" Team="MIN" OverallRank="319" PositionRank="33" ByeWeek="11" />
+<Player playerId="765" Name="Olindo Mare" Position="K" Team="CAR" OverallRank="320" PositionRank="34" ByeWeek="6" />
+<Player playerId="1031" Name="Graham Gano" Position="K" Team="WAS" OverallRank="321" PositionRank="35" ByeWeek="10" />
+<Player playerId="2079" Name="Justin Tucker" Position="K" Team="BAL" OverallRank="322" PositionRank="36" ByeWeek="8" />
+<Player playerId="1328" Name="Nick Novak" Position="K" Team="SD" OverallRank="364" PositionRank="37" ByeWeek="7" />
+<Player playerId="764" Name="Ryan Longwell" Position="K" Team="MIN" OverallRank="374" PositionRank="38" ByeWeek="11" />
+<Player playerId="1205" Name="Justin Medlock" Position="K" Team="CAR" OverallRank="376" PositionRank="39" ByeWeek="6" />
+<Player playerId="741" Name="Josh Brown" Position="K" Team="NYJ" OverallRank="382" PositionRank="40" ByeWeek="9" />
+<Player playerId="1757" Name="John Potter" Position="K" Team="BUF" OverallRank="409" PositionRank="41" ByeWeek="8" />
+<Player playerId="771" Name="Dave Rayner" Position="K" Team="BUF" OverallRank="728" PositionRank="42" ByeWeek="8" />
+<Player playerId="1695" Name="Jeff Wolfert" Position="K" Team="CLE" OverallRank="769" PositionRank="43" ByeWeek="10" />
+<Player playerId="1693" Name="Thomas Weber" Position="K" Team="CIN" OverallRank="776" PositionRank="44" ByeWeek="8" />
+<Player playerId="1691" Name="Chris Koepplin" Position="K" Team="NE" OverallRank="786" PositionRank="45" ByeWeek="9" />
+<Player playerId="1687" Name="Kai Forbath" Position="K" Team="TB" OverallRank="790" PositionRank="46" ByeWeek="5" />
+<Player playerId="891" Name="David Buehler" Position="K" Team="DAL" OverallRank="817" PositionRank="47" ByeWeek="5" />
+<Player playerId="1204" Name="Garrett Lindholm" Position="K" Team="STL" OverallRank="824" PositionRank="48" ByeWeek="9" />
+<Player playerId="746" Name="Brandon Coutu" Position="K" Team="JAC" OverallRank="875" PositionRank="49" ByeWeek="6" />
+<Player playerId="1796" Name="Jake Rogers" Position="K" Team="DAL" OverallRank="963" PositionRank="50" ByeWeek="5" />
+<Player playerId="1329" Name="Aaron Pettrey" Position="K" Team="CIN" OverallRank="904" PositionRank="51" ByeWeek="8" />
+<Player playerId="2050" Name="Dave Teggart" Position="K" Team="CHI" OverallRank="1125" PositionRank="52" ByeWeek="6" />
+<Player playerId="2042" Name="Danny Hrapmann" Position="K" Team="PIT" OverallRank="1117" PositionRank="53" ByeWeek="4" />
+<Player playerId="2013" Name="Eddy Carmona" Position="K" Team="OAK" OverallRank="1090" PositionRank="54" ByeWeek="5" />
+<Player playerId="2009" Name="Matt Szymanski" Position="K" Team="KC" OverallRank="1086" PositionRank="55" ByeWeek="7" />
+<Player playerId="1972" Name="Matt Bosher" Position="K" Team="ATL" OverallRank="1059" PositionRank="56" ByeWeek="7" />
+<Player playerId="778" Name="Steven Weatherford" Position="K" Team="JAC" OverallRank="889" PositionRank="57" ByeWeek="6" />
+<Player playerId="1732" Name="Matt Bosher" Position="K" Team="ATL" OverallRank="940" PositionRank="58" ByeWeek="7" />
+<Player playerId="1907" Name="Derek Dimke" Position="K" Team="DET" OverallRank="1020" PositionRank="59" ByeWeek="5" />
+<Player playerId="1852" Name="Carson Wiggs" Position="K" Team="SEA" OverallRank="990" PositionRank="60" ByeWeek="11" />
+<Player playerId="1846" Name="Giorgio Tavecchio" Position="K" Team="SF" OverallRank="986" PositionRank="61" ByeWeek="9" />
+<Player playerId="2094" Name="Erik Folk" Position="K" Team="ATL" OverallRank="1163" PositionRank="62" ByeWeek="7" />
+</Results>
+</FantasyFootballNerd>
